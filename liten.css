@@ -1,0 +1,100 @@
+h1 {
+  font-size: 250%;
+  padding: 3%;
+  text-align: center;
+  font-family: Homestead, sans-serif;
+  color: white;
+  line-height: 95%;
+  margin: auto; }
+
+h2 {
+  font-size: 150%;
+  padding: 3%;
+  text-align: center;
+  font-family: Homestead, sans-serif;
+  color: white;
+  margin: auto; }
+
+#one {
+  background-image: url(pictures/bergVatten.jpeg);
+  background-size: cover;
+  background-color: black; }
+
+nav {
+  font-size: 95%;
+  padding: 3%;
+  width: 65%;
+  margin: auto;
+  padding-bottom: 30%; }
+
+#two {
+  background-image: url(pictures/Apelsin.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black; }
+
+#two p {
+  padding: 8%;
+  margin: auto;
+  line-height: 135%; }
+
+#three {
+  background-image: url(pictures/VattenBrygga.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-color: black; }
+
+#four {
+  background-image: url(pictures/Horse.jpeg);
+  background-size: cover;
+  background-color: black; }
+
+p {
+  line-height: 135%;
+  margin: auto;
+  padding: 8%;
+  color: white;
+  max-width: 600px; }
+
+#four p {
+  color: black;
+  line-height: 100%; }
+
+#four h3 {
+  color: black; }
+
+h3 {
+  margin: auto;
+  padding: 3%;
+  font-size: 155%;
+  text-align: center;
+  color: white; }
+
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 150%;
+  background-color: black; }
+
+a:link {
+  color: white;
+  text-decoration: none; }
+
+a:visited {
+  color: white;
+  text-decoration: none; }
+
+a:hover {
+  color: white;
+  text-decoration: underline; }
+
+a:active {
+  color: white;
+  text-decoration: underline; }
+
+.knapp {
+  position: relative;
+  left: 25%; }
+
+/*# sourceMappingURL=liten.css.map */

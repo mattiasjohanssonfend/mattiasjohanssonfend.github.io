@@ -1,0 +1,16 @@
+@media (min-width: 1000px) {
+  nav {
+    font-size: 22px;
+    line-height: 1%;
+    padding-bottom: 34%; }
+
+  h1 {
+    font-size: 500%;
+    color: green; }
+
+  h3 {
+    font-size: 200%;
+    color: green;
+    font-family: Homestead, helvetica, sans-serif; } }
+
+/*# sourceMappingURL=stor.css.map */
